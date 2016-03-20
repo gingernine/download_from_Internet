@@ -4,8 +4,6 @@
 from urllib.request import urlopen, build_opener, Request
 from urllib.parse import unquote_plus
 import re
-import json
-from bs4 import BeautifulSoup
 import os
 
 
